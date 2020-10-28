@@ -10,5 +10,7 @@
 <h1> Cibertec Sede Norte</h1>
 <h2> jhosep galarza huaman </h2>
 
+<marquee>EL GIT FUNCIONA </marquee>
+
 </body>
 </html>
